@@ -98,7 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				C91396E520BE50A1002B384D /* AppDelegate.swift */,
-				C91396E720BE50A1002B384D /* ViewController.swift */,
+				C9A0743720BFEF7400937C05 /* test1 */,
 				C91396E920BE50A1002B384D /* Main.storyboard */,
 				C91396EC20BE50A3002B384D /* Assets.xcassets */,
 				C91396EE20BE50A3002B384D /* LaunchScreen.storyboard */,
@@ -123,6 +123,22 @@
 				C913970720BE50A3002B384D /* Info.plist */,
 			);
 			path = XcodeShortcutsUITests;
+			sourceTree = "<group>";
+		};
+		C9A0743720BFEF7400937C05 /* test1 */ = {
+			isa = PBXGroup;
+			children = (
+				C9A0743820BFEF8F00937C05 /* test2 */,
+			);
+			path = test1;
+			sourceTree = "<group>";
+		};
+		C9A0743820BFEF8F00937C05 /* test2 */ = {
+			isa = PBXGroup;
+			children = (
+				C91396E720BE50A1002B384D /* ViewController.swift */,
+			);
+			path = test2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
