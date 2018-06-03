@@ -88,7 +88,8 @@ class ViewController: UIViewController {
         var test = String()
         test = "678"
         
-        
+        //16. fn + 上 下 移动上一页，下一页。 左右 移动至头部 尾部
+       
     }
  
 }
